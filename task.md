@@ -2,7 +2,7 @@
 
 ## Objective
 
-Design and implement a **Star Schema** using Python. The data provided in the Excel files (`raw_data.xlsx` and `final_data.xlsx`) represents sales and organizational information. Your task is to transform this data into a dimensional model suitable for analytical processing.
+Design and implement a **Star Schema** using Python. The data provided in the Excel files (`raw_data.xlsx` and `final_data.xlsx`) represents meeting informations. Your task is to transform this data into a dimensional model suitable for analytical processing.
 
 ---
 
