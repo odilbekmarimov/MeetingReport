@@ -71,10 +71,10 @@ Ensure dimension tables:
 
 2. Output files: Excel file.
 
-3. A visual diagram of your star schema using Power BI.
+3. A visual diagram of your star schema using Power BI or any schema visualizer.
 
 ---
 
 ## Submission Deadline
 
-Please submit all required deliverables by **[Insert Deadline Date]**.
+Please submit all required deliverables by **Sunday, June 19, 21:00 **.
